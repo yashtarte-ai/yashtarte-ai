@@ -1,6 +1,6 @@
 # Hello, I'm Yash Tarte! 👋
 
-I'm an AI/ML enthusiast and a dedicated student exploring the fascinating world of artificial intelligence and machine learning.
+I'm an AI enthusiast and a dedicated student exploring the fascinating world of artificial intelligence and machine learning.
 
 ## About Me
 
