@@ -25,8 +25,3 @@ I'm an AI/ML enthusiast and a dedicated student exploring the fascinating world 
 
 Looking forward to connecting with fellow AI/ML enthusiasts and professionals. Let's shape the future of technology together!
 
-
-<!---
-yashtarte-ai/yashtarte-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
