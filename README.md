@@ -16,7 +16,8 @@ I'm an AI/ML enthusiast and a dedicated student exploring the fascinating world 
 ## Get in Touch
 
 - 📫 You can reach me at yash.tarte.ai@gmail.com
-- 🌐 Connect with me on [LinkedIn]
+- 🌐 Connect with me on
+-    LinkedIn - https://www.linkedin.com/in/yash-tarte-b18a44289/
 
 ## Let's Collaborate
 
